@@ -11,6 +11,15 @@ Hey, I'm **Narsi Bhati**, a passionate **Software Engineer** 🚀 specializing i
 
 ---
 
+## 🌐 Web3 Projects
+
+| [Solana Starter][15] | [![Solana Starter][16]][15] |
+| :------------------: | :-------------------------: |
+
+🔗 More Web3 projects coming soon! Stay tuned.
+
+---
+
 ## 📫 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)][11]
@@ -34,5 +43,7 @@ Hey, I'm **Narsi Bhati**, a passionate **Software Engineer** 🚀 specializing i
 [11]: https://www.narsibhati.com
 [12]: https://www.linkedin.com/in/narsi-bhati-b43459224/
 [13]: https://x.com/NarsiBhati31
+[15]: https://github.com/NarsiBhati-Dev/solana-starter
+[16]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/solana-starter.png
 
 <!-- [14]: https://github.com/NarsiBhati-Dev -->
