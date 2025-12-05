@@ -2,6 +2,10 @@
 
 Hey, I'm **Narsi Bhati**, a passionate **Software Engineer** 🚀 specializing in **Next.js, TypeScript, React, Node.js, PostgreSQL**, and **DevOps**. I love building scalable applications, optimizing performance, and crafting smooth user experiences.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=narsibhati-dev&label=Profile%20views&color=0e75b6&style=flat" alt="narsibhati-dev" style="display: inline-block;"/>
+</p>
+
 |      [Audora][1]      |    [![Audora][2]][1]    |    [CoSketch][3]    | [![CoSketch][4]][3] |
 | :-------------------: | :---------------------: | :-----------------: | :-----------------: |
 | [NextBlog-Starter][5] |   [![NextBlog][6]][5]   | [JMB Restaurant][7] |   [![JMB][8]][7]    |
@@ -46,4 +50,4 @@ Hey, I'm **Narsi Bhati**, a passionate **Software Engineer** 🚀 specializing i
 [15]: https://github.com/NarsiBhati-Dev/solana-starter
 [16]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/solana-starter.png
 
-<!-- [14]: https://github.com/NarsiBhati-Dev -->
+<!-- [14]: https://github.com/narsibhati-dev -->
