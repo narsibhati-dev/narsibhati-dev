@@ -22,14 +22,14 @@
 | [CoSketch][3]         | Collaborative sketching platform for real-time creativity.                                                                                  | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/cosketch?style=flat&logo=github)                                                                   |
 | [NextBlog-Starter][5] | A starter template for building modern blogs with Next.js.                                                                                  | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/nextblog-starter?style=flat&logo=github)                                                           |
 | [JMB Restaurant][7]   | Restaurant management and ordering system.                                                                                                  | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jmb_restaurant?style=flat&logo=github)                                                             |
-| [J&M Rentals][9]      | Property rental management platform.                                                                                                        | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jm_rentals_ltd?style=flat&logo=github)                                                             |
+| [J&M Rentals][9]      | Equipment rental platform for lawn, garden, scissorlifts, and earthmoving machinery.                                                        | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jm_rentals_ltd?style=flat&logo=github)                                                             |
 
 ## ◆ Web3 Projects
 
-| Project                          | Description                                                        | Stars                                                                                                          |
-| -------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| [Solana Starter][15]             | A starter template for building Solana blockchain applications.    | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/solana-starter?style=flat&logo=github)             |
-| [Solana Programs Collection][16] | A curated collection of Solana programs for learning and practice. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/solana-programs-collection?style=flat&logo=github) |
+| Project                          | Description                                                        | Stars                                                                                                                                                                              |
+| -------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Solana Starter][15]             | A starter template for building Solana blockchain applications.    | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/solana-starter?style=flat&logo=github)                                                                                 |
+| [Solana Programs Collection][16] | A curated collection of Solana programs for learning and practice. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/solana-programs-collection?style=flat&logo=github) ![status](https://img.shields.io/badge/status-in%20progress-orange) |
 
 ## ⚙ Rust Projects
 
