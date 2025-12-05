@@ -1,53 +1,75 @@
-# Welcome to My GitHub! 👋
-
-Hey, I'm **Narsi Bhati**, a passionate **Software Engineer** 🚀 specializing in **Next.js, TypeScript, React, Node.js, PostgreSQL**, and **DevOps**. I love building scalable applications, optimizing performance, and crafting smooth user experiences.
+<h1 align="center">Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=narsibhati-dev&label=Profile%20views&color=0e75b6&style=flat" alt="narsibhati-dev" style="display: inline-block;"/>
+  <strong>Narsi Bhati</strong> · Software Engineer
+  <br><br>
+  Specializing in <strong>Next.js, TypeScript, React, Node.js, PostgreSQL</strong>, and <strong>DevOps</strong>.
+  <br>
+  I love building scalable applications, optimizing performance, and crafting smooth user experiences.
 </p>
 
-|      [Audora][1]      |    [![Audora][2]][1]    |    [CoSketch][3]    | [![CoSketch][4]][3] |
-| :-------------------: | :---------------------: | :-----------------: | :-----------------: |
-| [NextBlog-Starter][5] |   [![NextBlog][6]][5]   | [JMB Restaurant][7] |   [![JMB][8]][7]    |
-|   [J&M Rentals][9]    | [![J&M Rentals][10]][9] |
-
-🚀 More projects coming soon! Stay tuned.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=narsibhati-dev&label=Profile%20views&color=0e75b6&style=flat" alt="narsibhati-dev"/>
+</p>
 
 ---
 
-## 🌐 Web3 Projects
+## ▸ Featured Projects
 
-| [Solana Starter][15] | [![Solana Starter][16]][15] |
-| :------------------: | :-------------------------: |
+| Project               | Description                                                                                                                                 | Stars                                                                                                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Audora][1]           | Full-stack audio/video recording platform with WebRTC, FFmpeg/GStreamer processing, and S3 multipart uploads. Built with Turborepo and Bun. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/audora?style=flat&logo=github) ![status](https://img.shields.io/badge/status-in%20progress-orange) |
+| [CoSketch][3]         | Collaborative sketching platform for real-time creativity.                                                                                  | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/cosketch?style=flat&logo=github)                                                                   |
+| [NextBlog-Starter][5] | A starter template for building modern blogs with Next.js.                                                                                  | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/nextblog-starter?style=flat&logo=github)                                                           |
+| [JMB Restaurant][7]   | Restaurant management and ordering system.                                                                                                  | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jmb_restaurant?style=flat&logo=github)                                                             |
+| [J&M Rentals][9]      | Property rental management platform.                                                                                                        | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jm_rentals_ltd?style=flat&logo=github)                                                             |
 
-🔗 More Web3 projects coming soon! Stay tuned.
+## ◆ Web3 Projects
+
+| Project                          | Description                                                        | Stars                                                                                                          |
+| -------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| [Solana Starter][15]             | A starter template for building Solana blockchain applications.    | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/solana-starter?style=flat&logo=github)             |
+| [Solana Programs Collection][16] | A curated collection of Solana programs for learning and practice. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/solana-programs-collection?style=flat&logo=github) |
+
+## ⚙ Rust Projects
+
+| Project     | Description                                                   | Stars |
+| ----------- | ------------------------------------------------------------- | ----- |
+| Coming soon | Systems programming and performance-focused projects in Rust. | —     |
+
+<p align="center">
+  <em>▸ More projects coming soon! Stay tuned.</em>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## → Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)][11]
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][12]
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][13]
+<p align="center">
+  <a href="https://www.narsibhati.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoSize=auto" alt="Portfolio" height="24"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/narsi-bhati-b43459224/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" height="24"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/NarsiBhati31">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoSize=auto" alt="X" height="24"/>
+  </a>
+</p>
 
 <!-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][14] -->
 
----
-
 [1]: https://github.com/NarsiBhati-Dev/audora
-[2]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/audora.png
 [3]: https://github.com/NarsiBhati-Dev/cosketch
-[4]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/cosketch.png
 [5]: https://github.com/NarsiBhati-Dev/nextblog-starter
-[6]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/nextblog.png
 [7]: https://github.com/NarsiBhati-Dev/jmb_restaurant
-[8]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/jmb-logo.png
 [9]: https://github.com/NarsiBhati-Dev/jm_rentals_ltd
-[10]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/Jm-rentals.png
 [11]: https://www.narsibhati.com
 [12]: https://www.linkedin.com/in/narsi-bhati-b43459224/
 [13]: https://x.com/NarsiBhati31
 [15]: https://github.com/NarsiBhati-Dev/solana-starter
-[16]: https://raw.githubusercontent.com/NarsiBhati-Dev/NarsiBhati-Dev/master/assets/solana-starter.png
+[16]: https://github.com/NarsiBhati-Dev/solana-programs-collection
 
 <!-- [14]: https://github.com/narsibhati-dev -->
