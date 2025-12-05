@@ -1,11 +1,8 @@
 <h1 align="center">Welcome to My GitHub!</h1>
 
 <p align="center">
-  <strong>Narsi Bhati</strong> · Software Engineer
-  <br><br>
-  Specializing in <strong>Next.js, TypeScript, React, Node.js, PostgreSQL</strong>, and <strong>DevOps</strong>.
-  <br>
-  I love building scalable applications, optimizing performance, and crafting smooth user experiences.
+  <strong>Narsi Bhati</strong> · Software Engineer<br>
+  Next.js · TypeScript · React · Node.js · PostgreSQL · DevOps
 </p>
 
 <p align="center">
