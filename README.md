@@ -20,7 +20,7 @@
 | [JMB Restaurant][7] | Restaurant management and ordering system.                                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jmb_restaurant?style=flat&logo=github) |
 | [J&M Rentals][9]    | Equipment rental platform for lawn, garden, scissorlifts, and earthmoving machinery.                                                                                     | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jm_rentals_ltd?style=flat&logo=github) |
 
-## ◆ AudoraLabs — Product Studio
+## ◆ AudoraLabs - Product Studio
 
 Building production-grade developer tools and media infrastructure.
 
