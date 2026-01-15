@@ -13,13 +13,21 @@
 
 ## ▸ Featured Projects
 
-| Project               | Description                                                                                                                                                              | Stars                                                                                                |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| [Audora][1]           | Full-stack platform for remote audio/video recording with WebRTC, media processing (FFmpeg/GStreamer), and scalable S3 multipart uploads - built with Turborepo and Bun. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/audora?style=flat&logo=github)           |
-| [CoSketch][3]         | Collaborative sketching platform for real-time creativity.                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/cosketch?style=flat&logo=github)         |
-| [NextBlog-Starter][5] | A starter template for building modern blogs with Next.js.                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/nextblog-starter?style=flat&logo=github) |
-| [JMB Restaurant][7]   | Restaurant management and ordering system.                                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jmb_restaurant?style=flat&logo=github)   |
-| [J&M Rentals][9]      | Equipment rental platform for lawn, garden, scissorlifts, and earthmoving machinery.                                                                                     | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jm_rentals_ltd?style=flat&logo=github)   |
+| Project             | Description                                                                                                                                                              | Stars                                                                                              |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [Audora][1]         | Full-stack platform for remote audio/video recording with WebRTC, media processing (FFmpeg/GStreamer), and scalable S3 multipart uploads - built with Turborepo and Bun. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/audora?style=flat&logo=github)         |
+| [CoSketch][3]       | Collaborative sketching platform for real-time creativity.                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/cosketch?style=flat&logo=github)       |
+| [JMB Restaurant][7] | Restaurant management and ordering system.                                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jmb_restaurant?style=flat&logo=github) |
+| [J&M Rentals][9]    | Equipment rental platform for lawn, garden, scissorlifts, and earthmoving machinery.                                                                                     | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jm_rentals_ltd?style=flat&logo=github) |
+
+## ◆ AudoraLabs — Product Studio
+
+Building production-grade developer tools and media infrastructure.
+
+| Project                  | Description                                                | Stars                                                                                              |
+| ------------------------ | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [create-audora-next][17] | Create a new Audora Next.js app with one command.          | ![stars](https://img.shields.io/github/stars/audoralabs/create-audora-next?style=flat&logo=github) |
+| [NextBlog-Starter][5]    | A starter template for building modern blogs with Next.js. | ![stars](https://img.shields.io/github/stars/audoralabs/nextblog-starter?style=flat&logo=github)   |
 
 ## ◆ Web3 Projects
 
@@ -60,7 +68,7 @@
 
 [1]: https://github.com/NarsiBhati-Dev/audora
 [3]: https://github.com/NarsiBhati-Dev/cosketch
-[5]: https://github.com/NarsiBhati-Dev/nextblog-starter
+[5]: https://github.com/audoralabs/nextblog-starter
 [7]: https://github.com/NarsiBhati-Dev/jmb_restaurant
 [9]: https://github.com/NarsiBhati-Dev/jm_rentals_ltd
 [11]: https://www.narsibhati.com
@@ -68,5 +76,6 @@
 [13]: https://x.com/NarsiBhati31
 [15]: https://github.com/NarsiBhati-Dev/solana-starter
 [16]: https://github.com/NarsiBhati-Dev/solana-programs-collection
+[17]: https://github.com/audoralabs/create-audora-next
 
 <!-- [14]: https://github.com/narsibhati-dev -->
