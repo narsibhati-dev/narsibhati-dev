@@ -83,7 +83,7 @@ Building production-grade developer tools and media infrastructure.
 [7]: https://github.com/NarsiBhati-Dev/jmb_restaurant
 [9]: https://github.com/NarsiBhati-Dev/jm_rentals_ltd
 [11]: https://www.narsibhati.com
-[12]: https://www.linkedin.com/in/narsi-bhati-b43459224/
+[12]: https://www.linkedin.com/in/narsibhati/
 [13]: https://x.com/NarsiBhati31
 [15]: https://github.com/NarsiBhati-Dev/solana-starter
 [16]: https://github.com/NarsiBhati-Dev/solana-programs-collection
