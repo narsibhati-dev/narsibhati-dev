@@ -33,10 +33,11 @@
 
 Building production-grade developer tools and media infrastructure.
 
-| Project                  | Description                                                | Stars                                                                                              |
-| ------------------------ | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [create-audora-next][17] | Create a new Audora Next.js app with one command.          | ![stars](https://img.shields.io/github/stars/audoralabs/create-audora-next?style=flat&logo=github) |
-| [NextBlog-Starter][5]    | A starter template for building modern blogs with Next.js. | ![stars](https://img.shields.io/github/stars/audoralabs/nextblog-starter?style=flat&logo=github)   |
+| Project                  | Description                                                                               | Stars                                                                                              |
+| ------------------------ | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [create-audora-next][17] | Create a new Audora Next.js app with one command.                                         | ![stars](https://img.shields.io/github/stars/audoralabs/create-audora-next?style=flat&logo=github) |
+| [NextBlog-Starter][5]    | A starter template for building modern blogs with Next.js.                                | ![stars](https://img.shields.io/github/stars/audoralabs/nextblog-starter?style=flat&logo=github)   |
+| [audoralabs.com][18]     | Landing page and product hub for AudoraLabs,developer-first SaaS studio. Not open source. | —                                                                                                  |
 
 ## <img src="https://badgen.net/badge/Web3/Projects/cyan" alt="Web3 Projects"/>
 
@@ -88,5 +89,6 @@ Building production-grade developer tools and media infrastructure.
 [15]: https://github.com/NarsiBhati-Dev/solana-starter
 [16]: https://github.com/NarsiBhati-Dev/solana-programs-collection
 [17]: https://github.com/audoralabs/create-audora-next
+[18]: https://audoralabs.com
 
 <!-- [14]: https://github.com/narsibhati-dev -->
