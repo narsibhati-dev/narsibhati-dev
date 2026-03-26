@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" alt="Solana"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white" alt="Rust"/>
@@ -26,7 +27,6 @@
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | [Audora][1]         | Full-stack platform for remote audio/video recording with WebRTC, media processing (FFmpeg/GStreamer), and scalable S3 multipart uploads - built with Turborepo and Bun. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/audora?style=flat&logo=github)         |
 | [CoSketch][3]       | Collaborative sketching platform for real-time creativity.                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/cosketch?style=flat&logo=github)       |
-| [JMB Restaurant][7] | Restaurant management and ordering system.                                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jmb_restaurant?style=flat&logo=github) |
 | [J&M Rentals][9]    | Equipment rental platform for lawn, garden, scissorlifts, and earthmoving machinery.                                                                                     | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jm_rentals_ltd?style=flat&logo=github) |
 
 ## <img src="https://badgen.net/badge/AudoraLabs/Product%20Studio/purple?icon=awesome" alt="AudoraLabs"/>
@@ -81,7 +81,6 @@ Building production-grade developer tools and media infrastructure.
 [1]: https://github.com/NarsiBhati-Dev/audora
 [3]: https://github.com/NarsiBhati-Dev/cosketch
 [5]: https://github.com/audoralabs/nextblog-starter
-[7]: https://github.com/NarsiBhati-Dev/jmb_restaurant
 [9]: https://github.com/NarsiBhati-Dev/jm_rentals_ltd
 [11]: https://www.narsibhati.com
 [12]: https://www.linkedin.com/in/narsibhati/
