@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/nb-logo.svg" width="96" height="96" alt="Narsi Bhati"/>
-</p>
-
 <h1 align="center">Welcome to My GitHub!</h1>
 
 <p align="center">
@@ -27,11 +23,11 @@
 
 ## <img src="https://badgen.net/badge/Featured%20Projects/★/black?icon=github" alt="Featured Projects"/>
 
-| Project          | Description                                                                                                                                                              | Stars                                                                                              |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| [Audora][1]      | Full-stack platform for remote audio/video recording with WebRTC, media processing (FFmpeg/GStreamer), and scalable S3 multipart uploads - built with Turborepo and Bun. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/audora?style=flat&logo=github)         |
-| [Glyphcast][19]  | Browser-based ASCII studio for images, GIFs, and videos, with customizable output and exports for PNG, video, React, ZIP frames, and plain text.                         | ![stars](https://img.shields.io/github/stars/narsibhati-dev/glyphcast?style=flat&logo=github)      |
-| [CoSketch][3]    | Collaborative sketching platform for real-time creativity.                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/cosketch?style=flat&logo=github)       |
+| Project         | Description                                                                                                                                                              | Stars                                                                                         |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| [Audora][1]     | Full-stack platform for remote audio/video recording with WebRTC, media processing (FFmpeg/GStreamer), and scalable S3 multipart uploads - built with Turborepo and Bun. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/audora?style=flat&logo=github)    |
+| [Glyphcast][19] | Browser-based ASCII studio for images, GIFs, and videos, with customizable output and exports for PNG, video, React, ZIP frames, and plain text.                         | ![stars](https://img.shields.io/github/stars/narsibhati-dev/glyphcast?style=flat&logo=github) |
+| [CoSketch][3]   | Collaborative sketching platform for real-time creativity.                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/cosketch?style=flat&logo=github)  |
 
 ## <img src="https://badgen.net/badge/AudoraLabs/Product%20Studio/purple?icon=awesome" alt="AudoraLabs"/>
 
