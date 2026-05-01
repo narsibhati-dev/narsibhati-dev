@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/nb-logo.svg" width="96" height="96" alt="Narsi Bhati"/>
+</p>
+
 <h1 align="center">Welcome to My GitHub!</h1>
 
 <p align="center">
@@ -28,7 +32,6 @@
 | [Audora][1]      | Full-stack platform for remote audio/video recording with WebRTC, media processing (FFmpeg/GStreamer), and scalable S3 multipart uploads - built with Turborepo and Bun. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/audora?style=flat&logo=github)         |
 | [Glyphcast][19]  | Browser-based ASCII studio for images, GIFs, and videos, with customizable output and exports for PNG, video, React, ZIP frames, and plain text.                         | ![stars](https://img.shields.io/github/stars/narsibhati-dev/glyphcast?style=flat&logo=github)      |
 | [CoSketch][3]    | Collaborative sketching platform for real-time creativity.                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/cosketch?style=flat&logo=github)       |
-| [J&M Rentals][9] | Equipment rental platform for lawn, garden, scissorlifts, and earthmoving machinery.                                                                                     | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jm_rentals_ltd?style=flat&logo=github) |
 
 ## <img src="https://badgen.net/badge/AudoraLabs/Product%20Studio/purple?icon=awesome" alt="AudoraLabs"/>
 
@@ -94,7 +97,6 @@ Mini browser tools (free, open, no accounts). See the full list at [audoralabs.c
 [1]: https://github.com/NarsiBhati-Dev/audora
 [3]: https://github.com/NarsiBhati-Dev/cosketch
 [5]: https://github.com/audoralabs/nextblog-starter
-[9]: https://github.com/NarsiBhati-Dev/jm_rentals_ltd
 [11]: https://www.narsibhati.com
 [12]: https://www.linkedin.com/in/narsibhati/
 [13]: https://x.com/Marsihq
