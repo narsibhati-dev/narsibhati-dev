@@ -26,6 +26,7 @@
 | Project          | Description                                                                                                                                                              | Stars                                                                                              |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | [Audora][1]      | Full-stack platform for remote audio/video recording with WebRTC, media processing (FFmpeg/GStreamer), and scalable S3 multipart uploads - built with Turborepo and Bun. | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/audora?style=flat&logo=github)         |
+| [Glyphcast][19]  | Browser-based ASCII studio for images, GIFs, and videos, with customizable output and exports for PNG, video, React, ZIP frames, and plain text.                         | ![stars](https://img.shields.io/github/stars/narsibhati-dev/glyphcast?style=flat&logo=github)      |
 | [CoSketch][3]    | Collaborative sketching platform for real-time creativity.                                                                                                               | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/cosketch?style=flat&logo=github)       |
 | [J&M Rentals][9] | Equipment rental platform for lawn, garden, scissorlifts, and earthmoving machinery.                                                                                     | ![stars](https://img.shields.io/github/stars/NarsiBhati-Dev/jm_rentals_ltd?style=flat&logo=github) |
 
@@ -37,7 +38,7 @@ Building production-grade developer tools and media infrastructure.
 | ------------------------ | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [create-audora-next][17] | Create a new Audora Next.js app with one command.                                         | ![stars](https://img.shields.io/github/stars/audoralabs/create-audora-next?style=flat&logo=github) |
 | [NextBlog-Starter][5]    | A starter template for building modern blogs with Next.js.                                | ![stars](https://img.shields.io/github/stars/audoralabs/nextblog-starter?style=flat&logo=github)   |
-| [audoralabs.com][18]     | Landing page and product hub for AudoraLabs,developer-first SaaS studio. Not open source. | —                                                                                                  |
+| [audoralabs.com][18]     | Landing page and product hub for AudoraLabs,developer-first SaaS studio. Not open source. | -                                                                                                  |
 
 ## <img src="https://badgen.net/badge/Web3/Projects/cyan" alt="Web3 Projects"/>
 
@@ -50,10 +51,22 @@ Building production-grade developer tools and media infrastructure.
 
 | Project     | Description                                                   | Stars |
 | ----------- | ------------------------------------------------------------- | ----- |
-| Coming soon | Systems programming and performance-focused projects in Rust. | —     |
+| Coming soon | Systems programming and performance-focused projects in Rust. | -     |
+
+---
+
+## <img src="https://badgen.net/badge/AudoraLabs/Tools/purple?icon=awesome" alt="AudoraLabs Tools"/>
+
+Mini browser tools (free, open, no accounts). See the full list at [audoralabs.com/tools](https://www.audoralabs.com/tools).
+
+| Tool                                     | Description                                                                                                                  |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [SNPX](https://snpx.audoralabs.com/)     | Turn any public tweet into a polished, shareable image with clean typography for LinkedIn, Instagram, and anywhere you post. |
+| [Optx](https://optx.audoralabs.com/)     | Compress and convert images instantly in your browser: no server uploads, no accounts, no data collected.                    |
+| [SVGify](https://svgify.audoralabs.com/) | Turn PNG or JPG into scalable SVG vectors with Potrace via WebAssembly; everything runs in your browser.                     |
 
 <p align="center">
-  <em>More projects coming soon! Stay tuned.</em>
+  <img src="https://img.shields.io/badge/More%20projects%20coming%20soon%20%C2%B7%20Stay%20tuned-586069?style=flat&logo=github&logoColor=white" alt="More projects coming soon · Stay tuned"/>
 </p>
 
 ---
@@ -69,7 +82,7 @@ Building production-grade developer tools and media infrastructure.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://x.com/NarsiBhati31">
+  <a href="https://x.com/marsihq">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
   &nbsp;
@@ -89,5 +102,6 @@ Building production-grade developer tools and media infrastructure.
 [16]: https://github.com/NarsiBhati-Dev/solana-programs-collection
 [17]: https://github.com/audoralabs/create-audora-next
 [18]: https://audoralabs.com
+[19]: https://github.com/narsibhati-dev/glyphcast
 
 <!-- [14]: https://github.com/narsibhati-dev -->
