@@ -19,7 +19,4 @@
 
 ---
 
-<table width="100%"><tr>
-<td><a href="https://www.narsibhati.com">Portfolio</a> · <a href="https://www.linkedin.com/in/narsi-bhati-b43459224/">LinkedIn</a> · <a href="https://x.com/marsihq">X</a> · <a href="https://github.com/narsibhati-dev">GitHub</a></td>
-<td align="right"><img src="https://komarev.com/ghpvc/?username=narsibhati-dev&label=views&color=0e75b6&style=flat-square"/></td>
-</tr></table>
+<a href="https://www.narsibhati.com">Portfolio</a> · <a href="https://www.linkedin.com/in/narsi-bhati-b43459224/">LinkedIn</a> · <a href="https://x.com/marsihq">X</a> · <a href="https://github.com/narsibhati-dev">GitHub</a> &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=narsibhati-dev&label=views&color=0e75b6&style=flat-square"/>
