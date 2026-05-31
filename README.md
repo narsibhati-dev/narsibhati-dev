@@ -1,36 +1,25 @@
-<div align="center">
+# Things I Ship :)
 
-### Welcome to My GitHub!
+**Projects**
 
-# Narsi Bhati
+- [Audora](https://github.com/NarsiBhati-Dev/audora) - Full-stack remote audio/video recording platform built with WebRTC, FFmpeg/GStreamer pipelines, and scalable S3 multipart uploads.
+- [Glyphcast](https://github.com/narsibhati-dev/glyphcast) - High-control browser ASCII studio for converting images, GIFs, and videos with exports for PNG, video, React components, ZIP frames, and text.
+- [CoSketch](https://github.com/NarsiBhati-Dev/cosketch) - Real-time collaborative sketching platform built for multi-user visual ideation.
 
-Software Engineer · Developer Tools · Media Infrastructure · DevOps · Web Products
+**Browser Tools**
 
-![Profile views](https://komarev.com/ghpvc/?username=narsibhati-dev&label=Profile%20views&color=0e75b6&style=flat)
+- [SNPX](https://snpx.audoralabs.com/) - Convert any public tweet into a polished, shareable visual for social media.
+- [Optx](https://optx.audoralabs.com/) - Compress and convert images instantly in your browser with no uploads or account required.
+- [SVGify](https://svgify.audoralabs.com/) - Convert PNG/JPG to SVG using Potrace and WebAssembly, entirely in-browser.
 
-</div>
+**Web3**
 
----
-
-- [Audora](https://github.com/NarsiBhati-Dev/audora): Remote audio/video recording platform with WebRTC, FFmpeg/GStreamer, and S3 multipart uploads.
-- [Glyphcast](https://github.com/narsibhati-dev/glyphcast): Browser ASCII studio for images, GIFs, and videos with PNG, video, React, and ZIP exports.
-- [CoSketch](https://github.com/NarsiBhati-Dev/cosketch): Collaborative real-time sketching for fast visual ideation.
-
----
-
-- [SNPX](https://snpx.audoralabs.com/): Turn public tweets into polished shareable images.
-- [Optx](https://optx.audoralabs.com/): Compress and convert images instantly in-browser.
-- [SVGify](https://svgify.audoralabs.com/): Convert PNG/JPG to SVG via Potrace + WebAssembly in-browser.
+- [Solana Starter](https://github.com/NarsiBhati-Dev/solana-starter) - Production-ready starter template for shipping Solana blockchain applications faster.
+- [Solana Programs Collection](https://github.com/NarsiBhati-Dev/solana-programs-collection) - A curated collection of Solana programs built for learning and experimentation.
 
 ---
 
-- [Solana Starter](https://github.com/NarsiBhati-Dev/solana-starter): Starter template for shipping Solana blockchain apps.
-- [Solana Programs Collection](https://github.com/NarsiBhati-Dev/solana-programs-collection): Curated Solana programs for learning and experimentation.
-
----
-
-<div align="center">
-
-[Portfolio](https://www.narsibhati.com) · [LinkedIn](https://www.linkedin.com/in/narsi-bhati-b43459224/) · [X](https://x.com/marsihq) · [GitHub](https://github.com/narsibhati-dev)
-
-</div>
+<table width="100%"><tr>
+<td><a href="https://www.narsibhati.com">Portfolio</a> · <a href="https://www.linkedin.com/in/narsi-bhati-b43459224/">LinkedIn</a> · <a href="https://x.com/marsihq">X</a> · <a href="https://github.com/narsibhati-dev">GitHub</a></td>
+<td align="right"><img src="https://komarev.com/ghpvc/?username=narsibhati-dev&label=views&color=0e75b6&style=flat-square"/></td>
+</tr></table>
