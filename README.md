@@ -8,6 +8,7 @@
 
 **Web3**
 
+- [AutopsyLabs](https://www.autopsylabs.xyz/) - Forensic intelligence platform for Solana. Decode transactions, trace fund flows, detect scams, and secure wallets in real time.
 - [Guestbook](https://github.com/NarsiBhati-Dev/guestbook) - Open-source guestbook app where visitors can leave a message.
 - [Solana Programs Collection](https://github.com/NarsiBhati-Dev/solana-programs-collection) - A curated collection of Solana programs built for learning and experimentation.
 
