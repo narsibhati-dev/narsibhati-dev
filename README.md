@@ -1,15 +1,9 @@
 # Things I Ship :)
 
-**Projects**
-
-- [Audora](https://github.com/NarsiBhati-Dev/audora) - Full-stack remote audio/video recording platform built with WebRTC, FFmpeg/GStreamer pipelines, and scalable S3 multipart uploads.
-- [Glyphcast](https://github.com/narsibhati-dev/glyphcast) - High-control browser ASCII studio for converting images, GIFs, and videos with exports for PNG, video, React components, ZIP frames, and text.
-- [CoSketch](https://github.com/NarsiBhati-Dev/cosketch) - Real-time collaborative sketching platform built for multi-user visual ideation.
-
-**Web3**
-
 - [AutopsyLabs](https://www.autopsylabs.xyz/) - Forensic intelligence platform for Solana. Decode transactions, trace fund flows, detect scams, and secure wallets in real time.
-- [Guestbook](https://github.com/NarsiBhati-Dev/guestbook) - Open-source guestbook app where visitors can leave a message.
+- [Semora](https://github.com/narsixyz/semora) - Semantic analysis and version intelligence for smart contracts.
+- [Athena](https://github.com/narsixyz/athena) - Single-page Solana frontend with a built-in HD wallet for minting SPL Token-2022 assets with on-chain metadata, no browser extension required.
+- [Veil](https://github.com/narsixyz/Veil) - Private SOL payments, shielded by zero-knowledge proofs.
 - [Solana Programs Collection](https://github.com/NarsiBhati-Dev/solana-programs-collection) - A curated collection of Solana programs built for learning and experimentation.
 
 ---
